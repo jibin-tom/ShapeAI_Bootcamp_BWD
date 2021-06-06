@@ -7,19 +7,19 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: rgb(162, 96, 201);
   padding: 0 16px;
 }
 
 header {
-  background-color: blue;
+  background-color: rgb(230, 125, 223);
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 header h1 {
-  color: rgb(221, 16, 16);
+  color: rgb(0, 38, 255);
   font-family: "Trebuchet MS", cursive;
   font-weight: 200;
 }
@@ -36,9 +36,9 @@ footer p {
   color: #ccc;
 }
 .note {
-  background: #fff;
+  background: rgb(224, 207, 46);
   border-radius: 7px;
-  box-shadow: 0 2px 5px #ccc;
+  box-shadow: 0 2px 5px rgb(111, 76, 151);
   padding: 10px;
   width: 240px;
   margin: 16px;
@@ -54,3 +54,4 @@ footer p {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
